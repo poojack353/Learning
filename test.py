@@ -4,4 +4,8 @@ if A == 'Yes':
     print("And yeah also eat burger dear")
     print("Or Order something u needed!")
 else:
-    print("Then shut and go Study")
+    B = input("Are you thirsty?")
+    if B == "Yes":
+        print("Drink Coke")
+    else:
+        print("Shut and read then")
