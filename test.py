@@ -4,6 +4,3 @@ if A == "Music":
 elif A == "Netflix":
     print("Oh Nice. Did u watched FRIENDS show?")
     print("Yes i did")
-else:
-    print("Then tho ur waste ;|")
-
